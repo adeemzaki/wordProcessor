@@ -1,0 +1,3 @@
+I am a Research Scientist in Novi Facebook based in London.
+I am also a Visiting Researcher at the Department of Computer Science and Technology, University of Cambridge.
+My research interests centre on networked and distributed systems, particularly in the context of security and performance.
